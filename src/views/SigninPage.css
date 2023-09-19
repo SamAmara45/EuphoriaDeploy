@@ -1,0 +1,364 @@
+.signin-container {
+    width: 100%;
+    display: flex;
+    margin-top: -6%;
+    overflow: hidden;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .signin-signin {
+    width: 100%;
+    height: 844px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .signin-euphoria-presentaion191 {
+    margin-left: 30px;
+    position: absolute;
+  }
+  .signin-euphoria-presentaion1 {
+    top: 75px;
+    left: -51.6484375px;
+   
+    position: absolute;
+  }
+  .signin-rectangle49 {
+    top: 226px;
+    left: 274px;
+    width: 891px;
+    height: 478px;
+    position: absolute;
+    border-radius: 11px;
+  }
+  .signin-rectangle50 {
+    top: 271px;
+    left: 787px;
+    width: 152px;
+    height: 48px;
+    position: absolute;
+    border-color: rgba(217, 217, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+  }
+  .signin-rectangle51 {
+    top: 271px;
+    left: 967px;
+    width: 150px;
+    height: 45px;
+    position: absolute;
+    border-color: rgba(217, 217, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+  }
+  .signin-rectangle52 {
+    top: 355px;
+    left: 789px;
+    width: 328px;
+    padding-left: 3%;
+    height: 48px;
+    position: absolute;
+    border-color: rgba(217, 217, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+  }
+  .signin-rectangle56 {
+    top: 439px;
+    left: 789px;
+    width: 328px;
+    height: 48px;
+    padding-left: 3%;
+    position: absolute;
+    border-color: rgba(217, 217, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+  }
+  .signin-rectangle57 {
+    top: 524px;
+    left: 789px;
+    width: 328px;
+    height: 48px;
+    position: absolute;
+    border-color: rgba(217, 217, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+  }
+  .signin-rectangle55 {
+    top: 612px;
+    left: 788px;
+    width: 329px;
+    height: 35px;
+    position: absolute;
+    border-color: rgba(217, 217, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+  }
+  .signin-rectangle59 {
+    top: 653px;
+    left: 788px;
+    width: 329px;
+    height: 35px;
+    position: absolute;
+    border-color: rgba(217, 217, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+  }
+  .signin-rectangle58 {
+    top: 585px;
+    left: 845px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    border-color: rgba(217, 217, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+  }
+  .signin-text {
+    top: 241px;
+    left: 789px;
+    color: rgba(0, 0, 0, 1);
+    width: 110px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 116.99999570846558%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-text02 {
+    top: 241px;
+    left: 969px;
+    color: rgba(0, 0, 0, 1);
+    width: 110px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 116.99999570846558%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-text04 {
+    top: 328px;
+    left: 790px;
+    color: rgba(0, 0, 0, 1);
+    width: 110px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 116.99999570846558%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-text06 {
+    top: 412px;
+    left: 790px;
+    color: rgba(0, 0, 0, 1);
+    width: 110px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 116.99999570846558%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-text08 {
+    top: 499px;
+    left: 790px;
+    color: rgba(0, 0, 0, 1);
+    width: 149px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 116.99999570846558%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-text10 {
+    top: 587px;
+    left: 877px;
+    color: rgba(0, 0, 0, 1);
+    width: 160px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 116.99999570846558%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-text11 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .signin-text13 {
+    top: 620px;
+    left: 930px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: 116.99999570846558%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-text15 {
+    top: 662px;
+    left: 853px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: 116.99999570846558%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-text17 {
+    top: 741px;
+    left: 523px;
+    color: rgba(0, 0, 0, 1);
+    width: 100%;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 116.99999570846558%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-text18 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .signin-text20 {
+    top: 777px;
+    left: 375px;
+    color: rgba(0, 0, 0, 1);
+    width: 100%;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 116.99999570846558%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-text21 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .signin-image17 {
+    top: 443px;
+    left: 774px;
+    width: 73px;
+    height: 41px;
+    position: absolute;
+  }
+  .signin-image18 {
+    top: 524px;
+    left: 1053px;
+    width: 85px;
+    height: 48px;
+    position: absolute;
+  }
+  .signin-image16 {
+    top: 365px;
+    left: 787px;
+    width: 50px;
+    height: 28px;
+    position: absolute;
+  }
+  .signin-ellipse4 {
+    top: 150px;
+    left: 524px;
+    width: 53px;
+    height: 53px;
+    position: absolute;
+  }
+  .signin-ellipse400 {
+    top: 160px;
+    left: 539px;
+
+    position: absolute;
+  }
+  .signin-ellipse401 {
+    top: 160px;
+    left: 580px;
+
+    position: absolute;
+  }
+  .signin-ellipse5 {
+    top: 150px;
+    left: 514px;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+  }
+  .signin-image11 {
+    top: 655px;
+    left: 1012px;
+    width: 29px;
+    height: 29px;
+    position: absolute;
+  }
+  .signin-ellipse1095 {
+    top: 235px;
+    left: 296px;
+    width: 424px;
+    height: 424px;
+    position: absolute;
+  }
+  .signin-readyplayermeremovebgpreview1 {
+    top: 323px;
+    left: 286px;
+    width: 490px;
+    height: 300px;
+    position: absolute;
+    border-radius: 150px;
+  }
+  
