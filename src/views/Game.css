@@ -1,4 +1,6 @@
-
+#window{
+    overflow: hidden;
+}
 iframe{
     margin-left: 26%;
     padding-bottom: -20%;
