@@ -240,26 +240,7 @@ const Landingpage = (props) => {
         <span className="landingpage-text37">
           <span>Preview</span>
         </span>
-        <img src="external/Ellipse 14.png" alt="Ellipse141103" className="landingpage-ellipse14" />
-        <img src="external/Ellipse 13.png"  alt="Ellipse131103" className="landingpage-ellipse13" />
-        <img src="external/Rectangle 28.png" alt="Rectangle281103" className="landingpage-rectangle28" />
-        <img src="external/Rectangle 29.png" alt="Rectangle291103" className="landingpage-rectangle29" />
-        <img src="external/rectangle 39.png" alt="Rectangle391103" className="landingpage-rectangle39" />
-        <img src="external/rectangle 30.png" alt="Rectangle301103" className="landingpage-rectangle30" />
-        <img
-          src="external/Rectangle 31.png" 
-          alt="Rectangle311103"
-          className="landingpage-rectangle31 landingpage-rectangle31"
-        />
-        <img src="external/rectangle 32.png" alt="Rectangle321103" className="landingpage-rectangle32" />
-        <img src="external/rectangle 33.png" alt="Rectangle331103" className="landingpage-rectangle33" />
-        <img src="external/rectangle 35.png" alt="Rectangle351103" className="landingpage-rectangle35" />
-        <img src="external/rectangle 24.png" alt="Rectangle241103" className="landingpage-rectangle24" />
-        <img src="external/Ellipse 10.png"  alt="Ellipse101103" className="landingpage-ellipse10" />
-        <img src="external/Ellipse 11.png"  alt="Ellipse111103" className="landingpage-ellipse11" />
-        <img src="external/Ellipse 12.png"  alt="Ellipse121103" className="landingpage-ellipse12" />
-        <img src="external/rectangle 18.png" alt="Rectangle181103" className="landingpage-rectangle18" />
-        <img src="external/rectangle 19.png" alt="Rectangle191103" className="landingpage-rectangle19" />
+       
         <div className="landingpage-group1">
           <img src="external/Rectangle 36.png" alt="Rectangle361103" className="landingpage-rectangle36" />
           <img
@@ -290,7 +271,6 @@ const Landingpage = (props) => {
             alt="ivanacajina7LbC5Jjw4unsplash11103"
             className="landingpage-ivanacajina7lb-c5jjw4unsplash1"
           />
-          <img src="external/Rectangle 34.png" alt="Rectangle341103" className="landingpage-rectangle34" />
           <img
             src="/external/ayo1.png"
             alt="ayoogunseinde6W4F62sNyIunsplash11103"
@@ -302,7 +282,7 @@ const Landingpage = (props) => {
             alt="drakestakesvKnRYWmtekunsplash11103"
             className="landingpage-drakestakesv-kn-ry-wmtekunsplash1"
           />
-          <img src="external/Rectangle 26.png" alt="Rectangle261103" className="landingpage-rectangle26" />
+         
           <img
             src="external/Toa.png"
             alt="toaheftibaFmScxmiplMunsplash21103"
@@ -356,7 +336,7 @@ const Landingpage = (props) => {
             alt="aionyhaust3TLl97HNJounsplash11103"
             className="landingpage-aionyhaust3t-ll97hn-jounsplash1"
           />
-          <img src="external/Rectangle 25.png" alt="Rectangle251103" className="landingpage-rectangle25" />
+          
           <img
             src="external/ian.png"
             alt="iandooleyd1UPkiFd04Aunsplash11103"
