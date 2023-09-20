@@ -211,7 +211,7 @@ const Landingpage = (props) => {
           className="landingpage-image277576578382583130541585588143020940583273n"
         />
         <img
-          src="/external/lunflowFichier-1.png"
+          src="/external/Lun.png"
           alt="LunflowFichier11103"
           className="landingpage-lunflow-fichier1"
         />
