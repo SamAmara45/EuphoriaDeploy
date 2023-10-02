@@ -3,10 +3,9 @@
     background-color: black;
 }
 iframe{
-    margin-top: 10px;
-    margin-right: 25%;
+    margin-left: 20%;
     padding-bottom: -20%;
     width: 100%;
     height: 100vh; 
-    transform: scale(1.4);
+    transform: scale(1.2);
 }
