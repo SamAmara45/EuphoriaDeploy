@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Euphoria | Demo</title>
-    <link rel="shortcut icon" href="../logoE.png">
+    <title>Unity WebGL Player | EuphoriaBoard</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
   <body>
@@ -57,11 +57,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/Buildmulti.loader.js";
+      var loaderUrl = buildUrl + "/web.loader.js";
       var config = {
-        dataUrl: buildUrl + "/Buildmulti.data",
-        frameworkUrl: buildUrl + "/Buildmulti.framework.js",
-        codeUrl: buildUrl + "/Buildmulti.wasm",
+        dataUrl: buildUrl + "/web.data",
+        frameworkUrl: buildUrl + "/web.framework.js",
+        codeUrl: buildUrl + "/web.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "EuphoriaBoard",
