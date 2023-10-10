@@ -17,7 +17,7 @@
   margin: auto;
 }
 
-#unity-container.unity-desktop { left: 0%; top: 50%; transform: translate(0%, -50%) }
+#unity-container.unity-desktop { left: 50%; top: 50%; transform: translate(-50%, -50%) }
 #unity-container.unity-mobile { width: 100%!important; height: 100%!important; }
 
 /*Default Unity styles*/
