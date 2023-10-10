@@ -26,11 +26,11 @@ function unityShowBanner(msg, type) {
 }
 
 var buildUrl = "Build";
-var loaderUrl = buildUrl + "/WebRPM.loader.js";
+var loaderUrl = buildUrl + "/RPM.loader.js";
 var config = {
-    dataUrl: buildUrl + "/WebRPM.data",
-    frameworkUrl: buildUrl + "/WebRPM.framework.js",
-    codeUrl: buildUrl + "/WebRPM.wasm",
+    dataUrl: buildUrl + "/RPM.data",
+    frameworkUrl: buildUrl + "/RPM.framework.js",
+    codeUrl: buildUrl + "/RPM.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
     productName: "EuphoriaBoard",
