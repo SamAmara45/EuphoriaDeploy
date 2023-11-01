@@ -99,7 +99,22 @@
       }
 
       loadingBar.style.display = "block";
+       // Added JavaScript for resizing
+    var container = document.querySelector("#unity-container");
+    var canvas = document.querySelector("#unity-canvas");
+    
+    window.addEventListener('resize', function(){
+      var width = window.innerWidth;
+      var height = window.innerHeight;
 
+      container.style.width = width + "px";
+      container.style.height = height + "px";
+      canvas.style.width = width + "px";
+      canvas.style.height = height + "px";
+    });
+
+    // Trigger initial resize
+    window.dispatchEvent(new Event('resize'));
       var script = document.createElement("script");
       script.src = loaderUrl;
       script.onload = () => {
