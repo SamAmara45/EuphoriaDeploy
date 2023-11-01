@@ -7,7 +7,7 @@ function Game() {
     src="/Game/index.html"
     frameBorder="0"
     scrolling="no"
-    style={{ width: '100vw', height: '100vh' }}
+    style={{ overflow: "hidden", width: "100%", height: "100%" }}
     ></iframe>
 
   );
