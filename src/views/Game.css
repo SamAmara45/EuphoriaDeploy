@@ -1,11 +1,19 @@
-#window{
-    overflow: hidden;
+#window {
+    position: fixed; /* Fixed positioning */
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: hidden; 
+    z-index: 9999; /* Ensure it appears above all other content */
     background-color: black;
 }
-iframe{
-    margin-top: 3%;
-    padding-bottom: -3%;
+
+iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    height: 100vh; 
-    transform: scale(1.3);
+    height: 100%;
+    border: none; /* Remove any default borders */
 }
