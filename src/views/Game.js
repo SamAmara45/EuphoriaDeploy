@@ -2,9 +2,12 @@ import React from 'react';
 function Game() {
   return (
     <iframe
-        title="Unity Game"
-        src="/Game/index.html" // Replace with the correct path to your Unity WebGL build
-        frameBorder="1"
+    id="unityIframe"
+    
+    title="Unity Game"
+    src="/Game/index.html"
+    frameBorder="0"
+    style={{ width: '100vw', height: '100vh' }}
       ></iframe>
 
   );
