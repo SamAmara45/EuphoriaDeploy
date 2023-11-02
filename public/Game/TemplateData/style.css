@@ -1,36 +1,23 @@
-
 html {
-    overflow: hidden;
     box-sizing: border-box;
 }
-
 *, *:before, *:after {
-    overflow: hidden;
     box-sizing: inherit;
 }
 html, body {
-    overflow: hidden;
     height: 100%;
 }
 canvas {
-    overflow: hidden;
     display: block;
 }
 body {
-    overflow: hidden;
     margin: 0;
 }
 #unity-container {
-    overflow: hidden;
     width: 100%;
     height: 100%;
-    margin: 0;
-    padding: 0;
-    top: 0;
-    left: 0;
 }
 #unity-canvas {
-    overflow: hidden;
     width: 100%;
     height: 100%;
     background: #231F20;
